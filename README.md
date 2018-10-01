@@ -2,7 +2,7 @@
 
 > Propelling your business ahead
 
-[Pitch Deck](https://docs.google.com/presentation/d/1ZvPEvBa1x_SOo8xrpPhZbaRYhSKW5PzEFGyyelR7XHk/edit)
+[Pitch Deck](https://docs.google.com/presentation/d/1ZvPEvBa1x_SOo8xrpPhZbaRYhSKW5PzEFGyyelR7XHk/edit) used for [Startup Weekend Singapore Mega 2018](http://communities.techstars.com/singapore/singapore/startup-weekend/12854)
 
 Prototype page used for demo
 
