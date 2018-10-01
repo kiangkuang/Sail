@@ -1,6 +1,7 @@
 # Sail
 
 > Propelling your business ahead
+
 [Pitch Deck](https://docs.google.com/presentation/d/1ZvPEvBa1x_SOo8xrpPhZbaRYhSKW5PzEFGyyelR7XHk/edit)
 
 Prototype page used for demo
